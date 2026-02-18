@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello, World"
-author: You
+author: "Example"
 excerpt: "Markdown example"
 ---
 

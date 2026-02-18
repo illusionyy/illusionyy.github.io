@@ -6,12 +6,11 @@ permalink: /contact/
 
 # Contact
 
-Want to get in touch? Here's where to find me.
-
 ---
 
-- **Email:** example@example.com
-- **GitHub:** [github.com/yourusername](https://github.com)
-- **Twitter:** [@yourusername](https://twitter.com)
+- Support on [GitHub Sponsors](https://github.com/sponsors/illusion0001)
+- Support on [Ko-fi](https://ko-fi.com/illusion0001)
+- Follow on [YouTube](https://youtube.com/c/illusion0001)
+- Contact via email illusion3185@gmail.com
 
 ---

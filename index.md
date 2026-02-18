@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-This is a Mac OS X Style Jekyll site. Use the tabs above to navigate between pages.
+New website!
 
 ---
 
