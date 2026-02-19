@@ -3,12 +3,6 @@ layout: default
 title: Home
 ---
 
-# Welcome
-
-New website!
-
----
-
 ## Recent Posts
 
 <ul class="posts-list">
